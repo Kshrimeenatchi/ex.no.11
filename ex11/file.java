@@ -14,7 +14,7 @@ import java.io.IOException;
 
 /**
  *
- * @author meena
+ * @author shrimeenatchi
  */
 public class file {
 	public static void main(String args[]) {
